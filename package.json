@@ -1,0 +1,22 @@
+{
+  "name": "kbchat",
+  "version": "0.0.0",
+  "dependencies": {
+    "marked": "^0.5.1",
+    "marked-terminal": "^3.1.1",
+    "neo-blessed": "^0.2.0",
+    "react": "^16.7.0-alpha.2",
+    "react-blessed": ""
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "ws": "^6.1.2"
+  },
+  "scripts": {
+    "start": "babel-node src"
+  }
+}
