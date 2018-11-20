@@ -12,7 +12,7 @@ Eventually, I will package it a bit better.
 
 ## usage
 
-It works kinda like vim.  Each box can have focus, you can scroll them with arrow keys, when it's focused. Press `ESC` or `Ctrl-C` to quit.
+Each box can have focus, you can scroll them with arrow keys, when it's focused. Press `ESC` or `Ctrl-C` to quit. Input is a bit wonky, but I'll be improving the core widgets to make them work better. Everything should work with the mouse.
 
 
 ## todo
