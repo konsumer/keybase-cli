@@ -22,7 +22,7 @@ const ChannelList = ({ info, channels, currentChannel, setChannel, ...props }) =
   }
 
   return (
-    <list items={items} mouse keys onSelect={onSelect} {...props} />
+    <list tags items={items} mouse keys onSelect={onSelect} {...props} />
   )
 }
 

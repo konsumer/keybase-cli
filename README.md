@@ -21,3 +21,5 @@ Each box can have focus, you can scroll them with arrow keys, when it's focused.
 * attachments
 * `delete` & `deletehistory` events
 * secondary dialogs (settings, login, etc)
+* handle groups
+* handle git messages
