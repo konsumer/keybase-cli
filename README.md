@@ -18,7 +18,7 @@ Each box can have focus, you can scroll them with arrow keys, when it's focused.
 ## todo
 
 * reactions
-* attachments
+* attachments (including images)
 * `delete` & `deletehistory` events
 * secondary dialogs (settings, login, etc)
 * handle groups
